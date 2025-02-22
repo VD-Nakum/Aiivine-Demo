@@ -1,2 +1,2 @@
 # Aiivine-Demo
-This is My 1st  Repository
+This is My 1st Git Repository
